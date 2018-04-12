@@ -1,0 +1,1 @@
+$('span:even').css('color', 'red');
